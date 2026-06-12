@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/businessbridgehub/bbh-home-html/refs/heads/main/wp-content/uploads/2026/06/bbh-banner-for-github.png" 
+       alt="Business Bridge Hub - GitHub Banner" 
+       width="100%">
+</p>
+
 # Business Bridge Hub
 
 We engineer **secure and high-performance WordPress systems** focused on eliminating malware, performance bottlenecks, and structural vulnerabilities.
