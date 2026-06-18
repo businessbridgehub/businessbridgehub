@@ -64,7 +64,7 @@ Business Bridge Hub is not a single product — it is a **growing ecosystem of W
 
 ### 🔹 BBH Lite Theme  
 Lightweight WordPress block theme focused on performance, accessibility, and clean architecture  
-→ https://github.com/businessbridgehub/bbh-lite  
+→ https://github.com/businessbridgehub/bbh-lite/
 
 ---
 
@@ -76,7 +76,7 @@ WordPress security diagnostics engine (scan • detect • analyze vulnerabiliti
 
 ### 🔹 BBH Custom Schema  
 Structured data generator for SEO + AEO optimization and search visibility enhancement  
-→ https://github.com/MdJahidShah/bbh-custom-schema  
+→ https://github.com/MdJahidShah/bbh-custom-schema/
 
 ---
 
@@ -117,7 +117,11 @@ We provide system-level remediation.
 
 Business Bridge Hub tools are continuously developed and maintained as open infrastructure for WordPress developers and agencies.
 
-If these tools help secure your systems or improve your workflow, consider supporting ongoing development through GitHub Sponsors.
+If these tools help secure your systems or improve your workflow, consider supporting ongoing development through -
+
+<a href="https://www.buymeacoffee.com/jahidshah">
+  <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow" style="height:30px;" alt="Buy Me A Coffee">
+</a>
 
 ---
 
